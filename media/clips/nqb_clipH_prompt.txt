@@ -1,0 +1,11 @@
+Model: Dreamina Seedance 2.5 (byteplus/dreamina-seedance-2-5-260628)
+Settings: 720p, 9:16, 13 s, image-to-video (first frame = last frame of the previous clip), native audio on, no added music or voice-over.
+
+PROMPT
+Vertical 9:16, 13-second scene of a premium Chinese short drama, starting exactly on the first frame. 2 shots with hard cuts, the same continuous moment. Characters: 鸣霜 Ming Shuang: young East Asian woman about 22, idol-beautiful delicate face, large bright eyes, fair luminous skin, a tiny iridescent mother-of-pearl flower mark centred on her forehead, glossy black hair in an elaborate high bun with silver flower hairpins and dangling crystal tassels, translucent grey-blue layered hanfu with a pearl-embroidered bodice and wide sheer white-grey sleeves, barefoot. the mirror: an antique eight-lobed Tang-dynasty bronze mirror about 30 cm wide, its back inlaid with shimmering mother-of-pearl flower patterns. Location: a bright luxury seaside villa bedroom-suite: double-height white-and-gold palace-like interior, tall arched windows with turquoise sea and palm trees, crystal chandeliers, cream sofas, glossy marble floor, a large framed seascape painting on the right-hand wall.
+0-6s: medium shot following Ming Shuang: she turns away from the window and walks to a marble console on the east side of the room, lifts the mirror from it and holds it against her chest, saying: "我名鸣霜，在此镜中沉睡千年。"
+6-13s: hold a medium shot of her standing in front of the console holding the mirror to her chest, speaking with calm authority: "曾与你先祖有约，若后世沈家螺钿技艺失传，我便苏醒相助。"
+Bright, crisp, high-end Chinese short-drama look: idol-beautiful young leads, warm golden sunlight, glossy luxurious interior, sharp focus and clear detail everywhere. NO haze, NO bloom, NO soft-focus glow, NO blur filter. Characters keep exactly the same faces, hair and costumes in every shot. Dialogue is spoken in Mandarin with natural lip movement. No written words, letters or subtitle-like text anywhere on screen.
+
+NEGATIVE PROMPT
+on-screen text, letters, subtitles-like overlays, logo, watermark, face morphing, identity change, costume change, characters swapping left and right sides, extra fingers, deformed hands, distorted face, haze, bloom, soft-focus blur, low resolution
